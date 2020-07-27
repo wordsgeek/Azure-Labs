@@ -1,3 +1,7 @@
 # Azure-Labs
 
-This file contains the simple code to deploy a virtual network along with 2 subnets.
+# Beginner
+
+Deploy Vnet and Subnet
+
+This file contains the simple code to deploy an Azure virtual network with 2 subnets.
